@@ -22,6 +22,11 @@
         Hello, stranger!
         Default config here.
       '';
+
+      "hh.txt".text =''
+        hello home manager
+      '';
+
   };
 
   home.sessionVariables = {
